@@ -7,11 +7,11 @@ import "./App.css";
 class App extends Component{
   render(){
     return(<div>
+        <Logo/>
+        <br/>
         <Button variant="contained" color="primary">
           Hello World
         </Button>
-        <br/>
-        <Logo/>
       </div>
     );
   }

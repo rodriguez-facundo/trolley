@@ -4,13 +4,11 @@ export default class Logo extends React.Component {
   render(){
     return(
       <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
-       width="635pt" height="432pt" viewBox="0 0 635 432"
+       width="200pt" height="200pt" viewBox="0 0 635 432"
        preserveAspectRatio="xMidYMid meet">
       <metadata>
       Created by potrace 1.15, written by Peter Selinger 2001-2017
       </metadata>
-      <rect x='0' y='0' width='635pt' height='432pt' fill-opacity='0.6' fill='#ffa61d'/>
-      <rect x='0' y='0' width='635pt' height='432pt' fill='#f29e03'/>
       <g transform="translate(0,432) scale(0.1,-0.1)"
       fill="#000000" stroke="none">
       <path d="M1724 2823 c-32 -101 -78 -149 -154 -159 -63 -8 -61 -28 3 -32 l46
