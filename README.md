@@ -1,5 +1,5 @@
 # [WIP] trolley 
-A simplified POS webapp for middle size markets
+A simplified POS webapp for middle size markets.
 
 ### Development installation:
 
